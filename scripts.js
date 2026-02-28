@@ -19,3 +19,7 @@ const initialTasks = [
     status: "done",
   },
 ];
+
+function addTask() {
+
+}
