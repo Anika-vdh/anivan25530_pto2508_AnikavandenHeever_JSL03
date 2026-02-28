@@ -21,5 +21,9 @@ const initialTasks = [
 ];
 
 function addTask() {
+const title = prompt("Enter task title:");
+  const description = prompt("Enter task description:");
+  let status = prompt("Enter task status (todo, doing, done):");
 
+   status = status.toLowerCase();
 }
